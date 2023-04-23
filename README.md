@@ -1,8 +1,8 @@
 # jpa02h-epuzio
 
-Repo: https://ucsb-cs156-s23/jpa02h-epuzio
+Repo: https://github.com/ucsb-cs156-s23/jpa02-epuzio
 
-Deployed at: https://jpa02h-esmepuzio.herokuapp.com
+Deployed at: https://jpa02h-esmepuzio.herokuapp.com/
 
 
 # About this repo
