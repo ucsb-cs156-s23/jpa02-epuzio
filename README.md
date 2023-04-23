@@ -1,4 +1,4 @@
-# STARTER-jpa02
+# jpa02-epuzio
 
 * TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
@@ -8,9 +8,9 @@
 * TODO: Correct the links to repo below, 
   then delete this TODO.  Replace it with 
   a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s23/jpa02-cgaucho
+  https://github.com/ucsb-cs156-s23/jpa02-epuzio
 
-Repo: https://ucsb-cs156-s23/STARTER-jpa02
+Repo: https://ucsb-cs156-s23/jpa02-epuzio
 
 * TODO: Correct the "deployed at" link to app on Heroku or Render below, 
   then delete this TODO.  Replace it with 
@@ -18,7 +18,7 @@ Repo: https://ucsb-cs156-s23/STARTER-jpa02
   https://jpa02-cgaucho.herokuapp.com or https://jpa02-cgaucho.onrender.com
 
 
-Deployed at: https://jpa02-cgaucho.herokuapp.com
+Deployed at: https://jpa02-esmepuzio.herokuapp.com
 
 
 # About this repo
